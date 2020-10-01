@@ -14,11 +14,11 @@ backend:
 media_folder: "static/assets" 
 public_folder: "/assets" 
 
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: cynthia-teeters
-    api_key: '352165149673313'
+#media_library:
+#  name: cloudinary
+#  config:
+#    cloud_name: cynthia-teeters
+#    api_key: '352165149673313'
 
 collections:
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
