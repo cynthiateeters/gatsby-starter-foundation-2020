@@ -8,7 +8,9 @@ featuredImage: ""
 ---
 
 
-![mushroom](https://res.cloudinary.com/cynthia-teeters/image/upload/w_0.1/v1601517646/2020Fall/IndianTrace3.jpg)
+![mushroom](https://res.cloudinary.com/cynthia-teeters/image/upload/v1601517646/2020Fall/IndianTrace3.jpg)
+
+[Tim's Great Article](https://idmx268-timothyblajsa.netlify.app/text%20and%20typography%20best%20practices)
 
 **Hello World!**
 
